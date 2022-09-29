@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Beginning React
+
+
+- React continues to be extremely popular in the front-end world. Whether you’re in the job market or are curious to explore React's massive ecosystem, learning it will help you become a better developer. In this series, we'll review the basics of using React. We’ll learn about JSX, state, events, hooks, extracting components, props, and more.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
